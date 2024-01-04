@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baud_rates">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>600</item>
+        <item>800</item>
+        <item>2400</item>
+        <item>9600</item>
+        <item>115200</item>
+    </string-array>
+    <string-array name="newline_names">
+        <item>CR+LF</item>
+        <item>LF</item>
+        <item>&lt;none&gt;</item>
+    </string-array>
+    <string-array name="newline_values">
+        <item>\u000d\u000a</item>
+        <item>\u000a</item>
+        <item></item>
+    </string-array>
+</resources>
