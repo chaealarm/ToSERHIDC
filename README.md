@@ -26,4 +26,4 @@ and devices implementing the USB CDC protocol like
 
 The app uses the [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) library.
 
-This app origin is [SimpleUsbTerminal](https://github.com/kai-morich/SimpleUsbTerminal) , and I just modified to Encode BASE64 when sending.
+This app origin is [SimpleUsbTerminal](https://github.com/kai-morich/SimpleUsbTerminal).
